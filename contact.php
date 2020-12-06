@@ -1,0 +1,38 @@
+<?php
+echo '';
+echo '<section class="site-section bg-light" id="contact-section" >';
+echo '<div class="container">';
+echo '<div class="row mb-5">';
+echo '<div class="col-12 text-center">';
+echo '<h2 class="section-title mb-3" data-aos="fade-up">Бидэнтэй холбогдох</h2>';
+echo '</div>';
+echo '</div>';
+echo '<div class="row mb-5">';
+echo '<div class="col-md-3 text-center" data-aos="fade-up" data-aos-delay="100">';
+echo '<p class="mb-4">';
+echo '<span class="icon-room d-block h2 text-primary"></span>';
+echo '<span>СБД, 4-р хороо, Сөүлийн гудамж-23, Түшиг төв 203 тоот Улаанбаатар, Монгол улс  </span>';
+echo '</p>';
+echo '</div>';
+echo '<div class="col-md-3 text-center" data-aos="fade-up" data-aos-delay="200">';
+echo '<p class="mb-4">';
+echo '<span class="icon-phone d-block h2 text-primary"></span>';
+echo '<a href="#">75753030, 99103082, 96636305</a>';
+echo '</p>';
+echo '</div>';
+echo '<div class="col-md-3 text-center" data-aos="fade-up" data_aos-delay="300">';
+echo '<p class="mb-0">';
+echo '<span class="icon-mail_outline d-block h2 text-primary"></span>';
+echo '<a href="#">info@jetfinance.mn</a>';
+echo '</p>';
+echo '</div>';
+echo '<div class="col-md-3 text-center" data-aos="fade-up" data_aos-delay="400">';
+echo '<p class="mb-0">';
+echo '<span class="icon-facebook d-block h2 text-primary"></span>';
+echo '<a href="https://www.facebook.com/Jetfinance" target="_blank">Жетфинанс ББСБ</a>';
+echo '</p>';
+echo '</div>';
+echo '</div>';
+echo '</div>';
+echo '</section>';
+?>
