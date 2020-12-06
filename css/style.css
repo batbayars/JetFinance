@@ -117,11 +117,11 @@ body:after {
       font-size: 3rem; } }
 
 .site-footer {
-  padding: 4em 0;
-  background: #343a40; }
+  padding: 2em 0;
+  background: #253D51; }
   @media (min-width: 768px) {
     .site-footer {
-      padding: 8em 0; } }
+      padding: 2em 0; } }
   .site-footer .border-top {
     border-top: 1px solid rgba(255, 255, 255, 0.1) !important; }
   .site-footer p {
@@ -545,7 +545,7 @@ body:after {
     .sticky-wrapper .site-navbar .site-logo a {
       color: #fff; }
     .sticky-wrapper .site-navbar .site-menu > li > a {
-      color: #fff !important; }
+      color: #253D51 !important; }
       .sticky-wrapper .site-navbar .site-menu > li > a:hover, .sticky-wrapper .site-navbar .site-menu > li > a.active {
         color: #ED5454 !important; }
   .sticky-wrapper.is-sticky .site-navbar {
@@ -618,7 +618,7 @@ body:after {
 
 .circle-bg {
   position: relative; }
-  .circle-bg:after {
+  /* .circle-bg:after {
     width: 300px;
     height: 300px;
     content: "";
@@ -627,7 +627,7 @@ body:after {
     position: absolute;
     bottom: -90px;
     right: -90px;
-    background: #f8f9fa; }
+    background: #f8f9fa; } */
     @media (max-width: 991.98px) {
       .circle-bg:after {
         bottom: 0px;
@@ -1631,6 +1631,22 @@ body:after {
 
 .footer-social a {
   text-decoration: none !important; }
+
+  .form-urdun {
+    color: #253D51;
+    font-size: 30px;
+    font-weight: 900; 
+    margin-left: 100px;
+  }
+
+  .form-urdun1 {
+    color: #ED5454;
+    font-size: 35px;
+    font-weight: 900; 
+    margin-left: 200px;
+  }
+
+
 
 .footer-subscribe .form-control {
   border-color: #fff !important; }
